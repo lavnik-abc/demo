@@ -13,3 +13,5 @@ revert changes
 Revert "revert changes to fix"
 revert changes
 Revert "revert changes to fix""
+rest
+using reset head command
