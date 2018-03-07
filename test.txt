@@ -17,6 +17,10 @@ rest
 using reset head command
 rest
 using reset head command
-=======
 change 2
 good
+after restruction changes
+revert
+revert changes
+rest
+change 2
