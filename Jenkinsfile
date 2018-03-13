@@ -29,4 +29,8 @@ pipeline {
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> remotes/origin/jenkinsfile
